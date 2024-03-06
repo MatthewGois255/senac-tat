@@ -1,1 +1,1 @@
-Diretórios dos desafios do Linux Mint
+Diretório dos desafios do Linux Mint
