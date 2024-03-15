@@ -1,2 +1,0 @@
-Integração do Visual Studio
-qualquer texto
